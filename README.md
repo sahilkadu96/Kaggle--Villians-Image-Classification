@@ -1,1 +1,2 @@
-# Kaggle--Villians-Image-Classification
+# Kaggle--Villians-Image-Classification/
+Using CNN. Using VGG16. 
